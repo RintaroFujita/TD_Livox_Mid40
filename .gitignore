@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.ply
+
+# TouchDesigner: backups and incremental saves (Name.1.toe, Name.2.toe, ...)
+Backup/
+*.toe.bak
+td/*.[0-9]*.toe
+
+# local Claude Code settings
+.claude/
